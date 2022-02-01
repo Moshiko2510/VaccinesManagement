@@ -1,0 +1,13 @@
+Citizens map: 
+Name: eli david
+ID: 123454222
+Age: 45
+
+Name: tom lkvi
+ID: 541344425
+Age: 56
+
+Name: shir adda
+ID: 900212325
+Age: 65
+

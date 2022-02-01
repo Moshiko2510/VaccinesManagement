@@ -1,0 +1,7 @@
+Moshe Nissim 123123123 29 1 asd,dss,wss 1/2/2021 0/0/0 0
+eli david 123454222 45 0 ass,qqs,lll 0/0/0 1/2/2021 1
+tom lkvi 541344425 56 0 dd,www,ssw 0/0/0 0/0/0 1
+or levi 544344425 61 0 dd,www,ssw 0/0/0 0/0/0 0
+shir adda 900212325 65 0 dd,www,ssw 0/0/0 2/2/2021 1
+Moshe levi 203444329 14 1 asd,dss,wss 16/2/2021 0/0/0 0
+shir hanochi 123222333 25 1 dd,www,ssw 17/2/2021 0/0/0 0

@@ -1,0 +1,16 @@
+Citizens in quarantine: 
+Name: Moshe Nissim
+ID: 123123123
+Age: 29
+End of quarantine: 1/2/2021
+
+Name: Moshe levi
+ID: 203444329
+Age: 14
+End of quarantine: 16/2/2021
+
+Name: shir hanochi
+ID: 123222333
+Age: 25
+End of quarantine: 17/2/2021
+
